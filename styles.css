@@ -299,7 +299,7 @@ aside {
   height: 360px;
   object-fit: cover;
   border-radius: 10%;
-  margin-top: 10px;
+  margin: 10px;
 }
 #productDetail .product-info {
   margin: 24px 24px 0 24px;
